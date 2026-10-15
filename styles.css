@@ -1,0 +1,33 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.profile {
+    width: 150px;
+    /* border: 5px solid black; */
+
+}
+.card {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px  auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #3ae2e9 ;
+    
+    background: #cae6ec ;
+    color: #1e2431 ;
+    /* font-weight: bold; */
+    
+    
+    /* background-color: aqua; */
+    /* border:2px  dotted blue; */
+    /* font-style: italic; */
+}
+.border {
+    /* border: 5px dotted #0b88b0; */
+
+}
